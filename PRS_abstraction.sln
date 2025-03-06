@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRS_abstraction", "PRS_abstraction\PRS_abstraction.csproj", "{FA75D2DB-39C7-4F99-9169-A6EFA85BB8C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA75D2DB-39C7-4F99-9169-A6EFA85BB8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA75D2DB-39C7-4F99-9169-A6EFA85BB8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA75D2DB-39C7-4F99-9169-A6EFA85BB8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA75D2DB-39C7-4F99-9169-A6EFA85BB8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1D3C044-49DF-4DD6-8E71-A1F98086D90A}
+	EndGlobalSection
+EndGlobal
